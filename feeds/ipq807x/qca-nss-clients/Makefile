@@ -5,7 +5,7 @@ PKG_NAME:=qca-nss-clients
 PKG_SOURCE_PROTO:=git
 PKG_BRANCH:=master
 PKG_RELEASE:=2
-PKG_SOURCE_URL:=https://source.codeaurora.org/quic/qsdk/oss/lklm/nss-clients/
+PKG_SOURCE_URL:=https://git.codelinaro.org/clo/qsdk/oss/lklm/nss-clients/
 PKG_VERSION:=153998d70fdba508a59a28c13a606032cbf32686
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
